@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Advanced HVAC Training | Rahul Waghale</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Advanced HVAC Training</h1>
+        <p>Hosted by Rahul Waghale</p>
+    </header>
+
+    <section class="training-info">
+        <h2>Training Overview</h2>
+        <p>This is an advanced HVAC training course aimed at providing deep knowledge and practical skills.</p>
+        <ul>
+            <li>Course Duration: 4 Weeks</li>
+            <li>Location: Dublin, Ireland</li>
+            <li>Instructor: Rahul Waghale</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:waghalerb@gmail.com">waghalerb@gmail.com</a></p>
+        <p>Phone: +353896168143</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Rahul Waghale. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
