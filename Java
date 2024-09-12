@@ -1,0 +1,2 @@
+// Placeholder for JavaScript functionality (if needed)
+console.log("Advanced HVAC Training Page");
